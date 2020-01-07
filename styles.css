@@ -1,0 +1,54 @@
+.want{
+    text-align:center;
+    font-size:40px;
+}
+.img1{
+    width:400px;
+    height:400px;
+}
+.idk{
+    display:flex;
+    justify-content:space-around;
+}
+.thing{
+    display:flex;
+    justify-content:space-around;
+}
+.img2{
+    width:400px;
+    height:400px;
+}
+.button{
+    font-size:40px;
+}
+p{
+    font-size:20px;
+}
+.button2{
+    display:none;
+}
+.button3{
+    display:none;
+}
+.img3{
+    width:500px;
+    height:300px;
+    display:none;
+}
+.god{
+    display:none;
+    text-align:center;
+}
+.god2{
+    display:none;
+    text-align:center;
+}
+.img4{
+    width:500px;
+    height:400px;
+    display:none;
+}
+.god3{
+    display:none;
+    text-align:center;
+}
