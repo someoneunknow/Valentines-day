@@ -1,0 +1,35 @@
+$(".button").click(function(){
+    $(".want").text("Who do you want your valentine to be?");
+    $(".want").css("font-size");
+        $(".button2").show();
+            $(".button3").show();    
+  }); 
+  
+$(".button2").click(function(){
+      $(".img1").show();
+        $(".button3").hide();
+            $(".button2").hide();
+     $(".want").hide();
+     $(".god").show();
+  });
+  $(".button3").click(function(){
+      $(".img2").show();
+        $(".button2").hide();
+            $(".button3").hide();
+      $(".want").hide();
+      $(".god").show();
+  });
+  $(".img2").click(function(){
+      $(".img3").show();
+        $(".img2").hide();
+        $(".god").hide();
+     $(".god2").show(); 
+  });
+  $(".img1").click(function(){
+      $(".img4").show();
+        $(".img1").hide();
+            $(".button2").hide();
+     $(".want").hide();
+        $(".god").hide();
+     $(".god3").show(); 
+  });
